@@ -30,6 +30,13 @@ This repo is my “knowledge gym” 🏋️ — I keep notes, exercises, and sma
 
 ---
 
+## 🎓 Learning resources
+
+A big part of my learning process is inspired by courses and recommendations from the YouTuber:  
+🎥 **Alex The Analyst**
+
+---
+
 ## 🎯 Goal
 
 My goal is to build a strong and practical foundation in analytics and data science by combining:
